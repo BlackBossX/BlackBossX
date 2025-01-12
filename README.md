@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Malan!<br><br>🎓 An undergraduate at the University of Kelaniya, studying Electronics and Computer Science.<br>💻 Learning Java, Python, and C, and contributing to projects on GitHub.<br>🌟 Passionate about technology, coding, and building innovative solutions.<br><br>Let’s create something amazing! 🚀
+👋 Hi, I'm Malan!<br><br>🎓 An undergraduate at the University of Kelaniya, studying Electronics and Computer Science.<br>💻 Learning Java, Python, and C, and contributing to projects on GitHub.<br><br>Let’s create something amazing! 🚀
 
 
 ## 🌐 Socials:
