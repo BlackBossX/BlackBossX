@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/djkgusueb/image/upload/v1736665232/banner/githubBanner.jpg" alt="Banner" style="border-radius: 10px;">
+
 # 💫 About Me:
 👋 Hi, I'm Malan!<br><br>🎓 An undergraduate at the University of Kelaniya, studying Electronics and Computer Science.<br>💻 Learning Java, Python, and C, and contributing to projects on GitHub.<br><br>Let’s create something amazing! 🚀
 
